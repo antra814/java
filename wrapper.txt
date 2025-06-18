@@ -1,0 +1,24 @@
+package wrapper;
+
+public class Wrapper {
+
+	public static void main(String[] args) {
+		
+		
+		String intString="300";
+		
+		String doubleString="55.78";
+		  
+		String floatString="60.55f";
+		
+		int intvalue=Integer.parseInt(intString);
+		double doublevalue=Double.parseDouble(doubleString);
+		float floatvalue=Float.parseFloat(floatString);
+
+	System.out.println("Integer value:"+intvalue);
+	System.out.println("Double value:"+doublevalue);
+	System.out.println("Float value:"+floatvalue);
+	
+	}
+
+}
