@@ -1,0 +1,46 @@
+ 
+#S1{
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+    padding: 20px;
+    
+}
+
+
+#S2{
+     height: 100px;
+    width: 100px;
+    background-color: rgb(43, 116, 226);
+    padding: 20px;
+    
+
+}
+
+
+#S3{
+     height: 100px;
+    width: 100px;
+    background-color: rgb(49, 226, 43);
+    padding: 20px;
+
+    
+}
+
+#shape1{
+    display: flex;
+    
+  
+}
+   
+#shape2{
+    display:flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#shape3{
+    display:flex;
+    justify-content:end;
+    align-items: end;
+}
